@@ -14,7 +14,12 @@
 // cookies();
 var args = "hello Bananas"
 var pizza = "mama mia!!!"
-var nums = 12345
+var nums = 12345;
+
+let nums2 = 123;
+nums2 = 234;
+const nums3 = 456
+
 function bananas(params){
     
     console.log(params)
